@@ -79,22 +79,22 @@ content:
         caption: May 2016 - December 2019
         # quote: 
         description: | # this will include new lines to allow paragraphs
-            <mark>Project Name : Machine Reading Comprehension ChatBot</mark>	
+            Project Name : Machine Reading Comprehension ChatBot	
             - Developed <mark>microservices</mark> using <mark>Falcon</mark> to interact with Machine Comprehension and Q&A Generator models.
             - Implemented <mark>cache-based system</mark> & <mark>multiprocessing</mark> to <mark>reduce 30% execution time</mark> of APIs.
             - Created packages to manage lengthy requests with <mark>Apache Airflow</mark> utilizing the <mark>DAG paradigm</mark> to migrate the pipelines, earlier running on crontabs. 
 
-            <mark>Project Name : Automated Cargo-Booking system & Cargo BOT</mark>
+            Project Name : Automated Cargo-Booking system & Cargo BOT
             - Developed <mark>1-click automation</mark> tool for Cargo Booking using IBM WebSphere for Air France & KLM.
             - Created packages to build components (buses, queues, topics etc.) inside multiple application servers.
             - Developed conversational <mark>chatbot with 72% accuracy</mark> using <mark>RASA</mark> to answer queries based on historical data and improved its accuracy by 14% using a user feedback loop.
             - The automation led to an <mark>annual saving of $40K</mark> and reducing work of 4 full-time resources
 
-            <mark>Project Name : Server Management application</mark>
+            Project Name : Server Management application
             - Developed an automation tool to continuously monitor <mark>400+ jobs</mark> running on <mark>16+</mark> servers and generated reports, <mark>saving $30K annually</mark> for the business.
             - Created a <mark>log-visualizer</mark> to utilize information from log files and transform them into <mark>Grafana dashboards</mark>.
 
-            <mark>Project Name : Learning & Assessment Webapps (Accenture)</mark>
+            Project Name : Learning & Assessment Webapps (Accenture)
             - Developed <mark>Flask</mark> based <mark>REST APIs</mark> to fulfill multiple purposes like Learning, Training and Assessment. 
             - Developed a completely automated reporting tool with SMTP to send out emails with attached reports.
 
