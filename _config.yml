@@ -66,7 +66,7 @@ content:
         caption: January 2020 - June 2021
         # quote: Project Name - Risk Detection application
         description: | # this will include new lines to allow paragraphs
-          <mark>Project Name : Risk Detection application</mark>	
+          Project Name : Risk Detection application	
           - Designed a <mark>desktop application</mark> to search information from rich-text documents, images, WhatsApp chats & emails using Apache SOLR.
           - Designed and developed <mark>microservices</mark> using <mark>Python</mark> for text extraction, file sorting and SOLR cores creation & indexing for images, documents, chats, and emails.
           - Created a visualization tool to import data and view different analytics over it using <mark>D3.js & PostgreSQL</mark>.
