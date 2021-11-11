@@ -21,8 +21,8 @@ github_username:  shashwat2511
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: theonlyshashwat
 linkedin_username: shashwatpriyadarshi
+instagram_username: theonlyshashwat
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,7 +48,7 @@ linkedin_username: shashwatpriyadarshi
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Shashwat and I'm a Graduate student at Arizona State University with 5 years of experience in Software Development. I am currenltly seeking for Summer’22 Internship where I could utilize my education and skill at fullest. |
+  Hi, my name's Shashwat and I'm a Graduate student at Arizona State University with 5 years of experience in Software Development. I am currenltly seeking for Summer’22 Internship where I could utilize my education and skill at fullest.
   I also have experience in Software Development, Design, Integration, Debugging, Automation, and Data Analytics. I have expertise in designing microservice and monolithic based architecture and developing REST APIs using web frameworks like Flask and Falcon.
   
   I have worked at a number of companies gaining teamwork and leadership skills.
@@ -66,10 +66,10 @@ content:
         caption: January 2020 - June 2021
         # quote: Project Name - Risk Detection application
         description: | # this will include new lines to allow paragraphs
-          Project Name : Risk Detection application
-          - Designed a desktop application to search information from rich-text documents, images, WhatsApp chats & emails using Apache SOLR.
-          - Designed and developed microservices using Python for text extraction, file sorting and SOLR cores creation & indexing for images, documents, chats, and emails.
-          - Created a visualization tool to import data and view different analytics over it using D3.js & PostgreSQL.
+          <mark>Project Name : Risk Detection application</mark>	
+          - Designed a <mark>desktop application</mark> to search information from rich-text documents, images, WhatsApp chats & emails using Apache SOLR.
+          - Designed and developed <mark>microservices</mark> using <mark>Python</mark> for text extraction, file sorting and SOLR cores creation & indexing for images, documents, chats, and emails.
+          - Created a visualization tool to import data and view different analytics over it using <mark>D3.js & PostgreSQL</mark>.
       
       - layout: left
         title: Accenture
@@ -79,23 +79,23 @@ content:
         caption: May 2016 - December 2019
         # quote: 
         description: | # this will include new lines to allow paragraphs
-            Project Name : Machine Reading Comprehension ChatBot	
-            - Developed microservices using Falcon to interact with Machine Comprehension and Q&A Generator models.
-            - Implemented cache-based system & multiprocessing to reduce 30% execution time of APIs.
-            - Created packages to manage lengthy requests with Apache Airflow utilizing the DAG paradigm to migrate the pipelines, earlier running on crontabs. 
+            <mark>Project Name : Machine Reading Comprehension ChatBot</mark>	
+            - Developed <mark>microservices</mark> using <mark>Falcon</mark> to interact with Machine Comprehension and Q&A Generator models.
+            - Implemented <mark>cache-based system</mark> & <mark>multiprocessing</mark> to <mark>reduce 30% execution time</mark> of APIs.
+            - Created packages to manage lengthy requests with <mark>Apache Airflow</mark> utilizing the <mark>DAG paradigm</mark> to migrate the pipelines, earlier running on crontabs. 
 
             Project Name : Automated Cargo-Booking system & Cargo BOT 
-            - Developed 1-click automation tool for Cargo Booking using IBM WebSphere for Air France & KLM.
+            - Developed <mark>1-click automation</mark> tool for Cargo Booking using IBM WebSphere for Air France & KLM.
             - Created packages to build components (buses, queues, topics etc.) inside multiple application servers.
-            - Developed conversational chatbot with 72% accuracy using RASA to answer queries based on historical data and improved its accuracy by 14% using a user feedback loop.
-            - The automation led to an annual saving of $40K and reducing work of 4 full-time resources
+            - Developed conversational <mark>chatbot with 72% accuracy</mark> using <mark>RASA</mark> to answer queries based on historical data and improved its accuracy by 14% using a user feedback loop.
+            - The automation led to an <mark>annual saving of $40K</mark> and reducing work of 4 full-time resources
 
             Project Name : Server Management application
-            - Developed an automation tool to continuously monitor 400+ jobs running on 16+ servers and generated reports saving $30K annually for the business.
-            - Created a log-visualizer to utilize information from log files and transform them into Grafana dashboards.
+            - Developed an automation tool to continuously monitor <mark>400+ jobs</mark> running on <mark>16+</mark> servers and generated reports, <mark>saving $30K annually</mark> for the business.
+            - Created a <mark>log-visualizer</mark> to utilize information from log files and transform them into <mark>Grafana dashboards</mark>.
 
             Project Name : Learning & Assessment Webapps (Accenture)
-            - Developed Flask based REST APIs to fulfill multiple purposes like Learning, Training and Assessment. 
+            - Developed <mark>Flask</mark> based <mark>REST APIs</mark> to fulfill multiple purposes like Learning, Training and Assessment. 
             - Developed a completely automated reporting tool with SMTP to send out emails with attached reports.
 
 
