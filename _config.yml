@@ -22,7 +22,7 @@ github_username:  shashwat2511
 # facebook_username: jekyll
 # flickr_username: jekyll
 linkedin_username: shashwatpriyadarshi
-instagram_username: theonlyshashwat
+# instagram_username: theonlyshashwat
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -97,28 +97,27 @@ content:
             Project Name : Learning & Assessment Webapps (Accenture)
             - Developed <b>PHP</b> based <b>REST APIs</b> to fulfil multiple purposes like Learning, Training and Assessment.
             - Developed a completely automated reporting tool with SMTP to send out emails with attached reports.
-            - Performed different analytics on the user data collected by the application and provided automated email reports with visualizations using Python, JS, HTML, and CSS.
+            - Performed different analytics on the user data collected by the application and provided automated email reports with visualizations using <b>Python, JS, HTML, and CSS.</b>
             - Implemented Optical Character Recognition to extract data from scanned mark sheets of the job applicants.
             - Designed the UX in Photoshop and developed the UI using HTML, SASS, Bootstrap, jQuery, Gulp.
 
 
-  - title: Projects # Title for the section
+  - title: Projects & Internship # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Web Developer (Freelance)
         link: http://electrie.in/
-        link: http://misragroup.in/
         # link_text: Project Website
         sub_title: Software Engineer Intern
         caption: December 2014 - March 2015
-        # additional_links:
-        #   - title:  http://misragroup.in/
-        #     icon: fab fa-github
-        #     url: http://misragroup.in/
+        additional_links:
+          - title:  http://misragroup.in/
+            icon: fas fa-globe
+            url: http://misragroup.in/
         description: | # this will include new lines to allow paragraphs
-          - Developed multiple websites for clients using Wordpress, b, HTML, CSS, JavaScript.
-          - Developed custom plugins for Wordpress for few clients.
+          - Developed multiple websites for clients using <b>Wordpress, HTML, CSS, JavaScript</b>.
+          - Developed custom <b>themes and plugins for Wordpress</b> for some clients.
           - Links of my work: <a href="http://misragroup.in/">http://misragroup.in/</a>, <a href="http://electrie.in/">http://electrie.in/</a>
 
       - layout: left
@@ -128,9 +127,9 @@ content:
         sub_title: Software Engineer Intern
         caption: May 2015 - July 2015
         description: | # this will include new lines to allow paragraphs
-          - Developed an affiliation website to compare products of different ecommerce websites such as Flipkart, Snapdeal, Amazon and others using PHP.
+          - Developed an affiliation website to compare products of different ecommerce websites such as Flipkart, Snapdeal, Amazon and others using <b>PHP</b>.
           - Implemented multiple filters and sorting to view products based on their specifications.
-          - Implemented Restful architecture using PHP and MySQL and developed the Bootstrap based UI.
+          - Implemented <b>Rest architecture</b> using <b>PHP and MySQL</b> and developed the Bootstrap based UI.
           - Created Python scripts to automatically update the prices of products on the website using API calls.
 
       - layout: left
