@@ -108,17 +108,18 @@ content:
       - layout: left
         title: Web Developer (Freelance)
         link: http://electrie.in/
+        link: http://misragroup.in/
         # link_text: Project Website
         sub_title: Software Engineer Intern
         caption: December 2014 - March 2015
-        additional_links:
-          - title:  http://misragroup.in/
-            icon: fab fa-github
-            url: http://misragroup.in/
+        # additional_links:
+        #   - title:  http://misragroup.in/
+        #     icon: fab fa-github
+        #     url: http://misragroup.in/
         description: | # this will include new lines to allow paragraphs
           - Developed multiple websites for clients using Wordpress, b, HTML, CSS, JavaScript.
           - Developed custom plugins for Wordpress for few clients.
-          - Links of my work: <a href="http://misragroup.in/">http://misragroup.in/</a> , <a href="http://electrie.in/">http://electrie.in/</a>
+          - Links of my work: <a href="http://misragroup.in/">http://misragroup.in/</a>, <a href="http://electrie.in/">http://electrie.in/</a>
 
       - layout: left
         title: First-e-Mart, IIT, Kharagpur, India
@@ -134,8 +135,6 @@ content:
 
       - layout: left
         title: Feedback Monitoring System, KIIT University, Bhubaneswar, India
-        link: http://www.firstemart.com/
-        # link_text: Project Website
         sub_title: Research Assistant
         caption: August 2014 - January 2015
         description: | # this will include new lines to allow paragraphs
@@ -156,7 +155,6 @@ content:
       - layout: left
         title: Audio Transcript Generator Software
         # link_text: Project Website
-        sub_title: Minor Project
         caption: March 2014 - June 2014
         description: | # this will include new lines to allow paragraphs
           - Developed an <b>audio transcript generator</b> software integrated with an audio player in Python using the FFmpeg library (a large suite of libraries and programs for handling multimedia files).
