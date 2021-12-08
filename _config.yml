@@ -95,30 +95,79 @@ content:
             - Created a <b>log-visualizer</b> to utilize information from log files and transform them into <b>Grafana dashboards</b>.
 
             Project Name : Learning & Assessment Webapps (Accenture)
-            - Developed <b>Flask</b> based <b>REST APIs</b> to fulfill multiple purposes like Learning, Training and Assessment. 
+            - Developed <b>PHP</b> based <b>REST APIs</b> to fulfil multiple purposes like Learning, Training and Assessment.
             - Developed a completely automated reporting tool with SMTP to send out emails with attached reports.
+            - Performed different analytics on the user data collected by the application and provided automated email reports with visualizations using Python, JS, HTML, and CSS.
+            - Implemented Optical Character Recognition to extract data from scanned mark sheets of the job applicants.
+            - Designed the UX in Photoshop and developed the UI using HTML, SASS, Bootstrap, jQuery, Gulp.
 
 
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <b>React</b> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Web Developer (Freelance)
+        link: http://electrie.in/
+        # link_text: Project Website
+        sub_title: Software Engineer Intern
+        caption: December 2014 - March 2015
+        additional_links:
+          - title:  http://misragroup.in/
+            icon: fab fa-github
+            url: http://misragroup.in/
+        description: | # this will include new lines to allow paragraphs
+          - Developed multiple websites for clients using Wordpress, b, HTML, CSS, JavaScript.
+          - Developed custom plugins for Wordpress for few clients.
+          - Links of my work: <a href="http://misragroup.in/">http://misragroup.in/</a> , <a href="http://electrie.in/">http://electrie.in/</a>
 
-  - title: Education # Title for the section
+      - layout: left
+        title: First-e-Mart, IIT, Kharagpur, India
+        link: http://www.firstemart.com/
+        # link_text: Project Website
+        sub_title: Software Engineer Intern
+        caption: May 2015 - July 2015
+        description: | # this will include new lines to allow paragraphs
+          - Developed an affiliation website to compare products of different ecommerce websites such as Flipkart, Snapdeal, Amazon and others using PHP.
+          - Implemented multiple filters and sorting to view products based on their specifications.
+          - Implemented Restful architecture using PHP and MySQL and developed the Bootstrap based UI.
+          - Created Python scripts to automatically update the prices of products on the website using API calls.
+
+      - layout: left
+        title: Feedback Monitoring System, KIIT University, Bhubaneswar, India
+        link: http://www.firstemart.com/
+        # link_text: Project Website
+        sub_title: Research Assistant
+        caption: August 2014 - January 2015
+        description: | # this will include new lines to allow paragraphs
+          - Developed a <b>PHP</b> based web application to evaluate course feedbacks of the faculties provided by students.
+          - Created dynamic forms to record and evaluate feedbacks from <b>22,000 students</b> for around <b>500 teaching staffs</b> of KIIT University.
+          - Created <b>performance metrics</b> for faculties based on the student feedbacks.
+
+      - layout: left
+        title: Hospital Management System
+        # link_text: Project Website
+        sub_title: Minor Project
+        caption: October 2015 - February 2016
+        description: | # this will include new lines to allow paragraphs
+          - Developed search engine using <b>Apache SOLR</b> for fast and efficient searching of patient history based on multiple parameter disease and symptoms.
+          - Developed the REST APIs using <b>CodeIgniter PHP</b> and <b>MySQL</b> to manage the records.
+          - Created modules to generate bill for pharmacy in printer friendly format.
+
+      - layout: left
+        title: Audio Transcript Generator Software
+        # link_text: Project Website
+        sub_title: Minor Project
+        caption: March 2014 - June 2014
+        description: | # this will include new lines to allow paragraphs
+          - Developed an <b>audio transcript generator</b> software integrated with an audio player in Python using the FFmpeg library (a large suite of libraries and programs for handling multimedia files).
+          - Developed a <b>python</b> client that interacts with the <b>IBM Watson Speech-To-Text service</b> through its WebSockets interface and receives recognition hypotheses in real time.
+          - Audio player could simultaneously play the audio as well as highlights the speech being made in the audio.
+          - Implemented all the basic features in the player like play, pause, fast-forward, rewind, playlist etc.
+
+
+
+  
+  - title: Education
     layout: list # Type of content section (list/text)
     content:
       - layout: left
